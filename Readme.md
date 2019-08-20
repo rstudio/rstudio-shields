@@ -17,7 +17,7 @@
 * ![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)
   - `![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)`
   - Community link to new post:
-    - [![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)](https://community.rstudio.com/new-topic?title=&category_id=8&tags=reactlog&body=%0A%0A%0A%20%20--------%0A%20%20%0A%20%20%3Csup%3EReferred%20here%20by%20%60reactlog%60%27s%20README%3C/sup%3E%0A&u=barret)
+    - [![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Ftag%2Freactlog.json)](https://community.rstudio.com/new-topic?title=&category_id=8&tags=reactlog&body=%0A%0A%0A%20%20--------%0A%20%20%0A%20%20%3Csup%3EReferred%20here%20by%20%60reactlog%60%27s%20README%3C/sup%3E%0A&u=barret)
       - `[![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)](https://community.rstudio.com/new-topic?title=&category_id=8&tags=reactlog&body=%0A%0A%0A%20%20--------%0A%20%20%0A%20%20%3Csup%3EReferred%20here%20by%20%60reactlog%60%27s%20README%3C/sup%3E%0A&u=barret)`
 
 
