@@ -63,6 +63,10 @@ tags <- c(
   "xgboost", "xlsx", "xml2", "yaml"
 )
 
+tags <- c(tags,
+  "reactlog"
+)
+
 # categories <- tibble::tribble(
 #   ~ id, ~ url_category, ~ name,
 #   1, "uncategorized", "Uncategorized",
@@ -137,5 +141,6 @@ cat(
       "* ", dt$shield_md, "\n  - `", dt$shield_md, "`",
       collapse = "\n"
     )
-  )
+  ),
+  "\n"
 )

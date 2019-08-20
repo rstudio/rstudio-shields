@@ -37,4 +37,4 @@
 * [![RStudio Community: Events](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Firl.json)](https://community.rstudio.com/c/irl)
   - `[![RStudio Community: Events](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Firl.json)](https://community.rstudio.com/c/irl)`
 * [![RStudio Community: Jobs and Gigs](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fjobs.json)](https://community.rstudio.com/c/jobs)
-  - `[![RStudio Community: Jobs and Gigs](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fjobs.json)](https://community.rstudio.com/c/jobs)`
+  - `[![RStudio Community: Jobs and Gigs](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fjobs.json)](https://community.rstudio.com/c/jobs)` 

@@ -2,7 +2,7 @@
 
 -------------------
 
-[Community examples...](https://github.com/rstudio/rstudio-shields/blob/master/community/)
+## [Community examples...](https://github.com/rstudio/rstudio-shields/blob/master/community/)
 
 * [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
   - `[![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)`
@@ -12,4 +12,10 @@
   - `[![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)`
 
 
-[Tag examples...](https://github.com/rstudio/rstudio-shields/blob/master/tag/)
+## [Tag examples...](https://github.com/rstudio/rstudio-shields/blob/master/tag/)
+
+* ![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)
+  - `![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)`
+  - Community link to new post:
+    - [![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)](https://community.rstudio.com/new-topic?title=&category_id=8&tags=reactlog&body=%0A%0A%0A%20%20--------%0A%20%20%0A%20%20%3Csup%3EReferred%20here%20by%20%60reactlog%60%27s%20README%3C/sup%3E%0A&u=barret)
+      - `[![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)](https://community.rstudio.com/new-topic?title=&category_id=8&tags=reactlog&body=%0A%0A%0A%20%20--------%0A%20%20%0A%20%20%3Csup%3EReferred%20here%20by%20%60reactlog%60%27s%20README%3C/sup%3E%0A&u=barret)`

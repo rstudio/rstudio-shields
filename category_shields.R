@@ -90,5 +90,6 @@ cat(
       "* ", dt$shield_md, "\n  - `", dt$shield_md, "`",
       collapse = "\n"
     )
-  )
+  ),
+  "\n"
 )

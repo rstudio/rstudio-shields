@@ -602,3 +602,5 @@
   - `![RStudio Ask a question: xml2](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/xml2.json)`
 * ![RStudio Ask a question: yaml](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/yaml.json)
   - `![RStudio Ask a question: yaml](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/yaml.json)`
+* ![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)
+  - `![RStudio Ask a question: reactlog](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/reactlog.json)` 
