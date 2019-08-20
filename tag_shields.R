@@ -116,7 +116,7 @@ dt$shield_md <- mapply(
   SIMPLIFY = TRUE,
   FUN = function(tag) {
     paste0(
-      "![RStudio Ask a question: ", tag, "](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/", httpuv::encodeURIComponent(tag), ")]"
+      "![RStudio Ask a question: ", tag, "](https://img.shields.io/endpoint?url=https://rstudio.github.io/rstudio-shields/tag/", httpuv::encodeURIComponent(tag), ".json)"
     )
   }
 )
