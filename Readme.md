@@ -2,7 +2,7 @@
 
 -------------------
 
-## [Community examples...](https://github.com/rstudio/rstudio-shields/blob/master/community/)
+## [Community examples...](https://github.com/rstudio/rstudio-shields/blob/master/category/)
 
 * [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
   - `[![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)`
